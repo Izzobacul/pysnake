@@ -4,7 +4,6 @@ import pygame
 import random
 import time
 
-
 class Snake:
 	def __init__(self):
 		self.len = 1
